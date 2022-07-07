@@ -1,0 +1,9 @@
+Nazwa: W1
+A= 100
+B= 100
+C= 8
+D= 100
+E= 36
+F= 10
+Nazwa materia³u: STEEL_CAST
+Masa modelu: 1.6587391031455387
